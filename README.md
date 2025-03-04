@@ -1,7 +1,7 @@
 # myapp
 
 ## salida 
-- ![alt text](image.png)
+![image](https://github.com/user-attachments/assets/e08e293b-94c0-4e31-949e-734a5dc3ee47)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
